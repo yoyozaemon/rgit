@@ -2,4 +2,4 @@
 
 ## Version Control System
 
-![Alt Text]()
+![Alt Text](https://github.com/yoyozaemon/rgit/blob/master/img/rgit.png)
